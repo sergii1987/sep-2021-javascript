@@ -65,7 +65,7 @@
 
     // function delete_characters  (str, length) {
     //     return str.substring(0, length);
-    // };
+    // }
     // let str = 'Каждый охотник желает знать';
     // document.writeln(delete_characters(str, 7));
 
@@ -85,7 +85,7 @@
 
     // function FirstLetterUp (str){
     //     return str[0].toUpperCase() + str.slice(1)
-    // };
+    // }
     // document.write(FirstLetterUp('hello sergii'));
     // console.log(FirstLetterUp('hello sergii'));
 
