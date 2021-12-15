@@ -1,0 +1,39 @@
+
+
+.wraper {
+    width: 1500px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.post {
+    width: 200px;
+    height: 280px;
+    margin: 5px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.post h3 {
+    background: ghostwhite;
+
+}
+
+
+
+
+
+/*.comment {*/
+/*    width: 200px;*/
+/*    height: 280px;*/
+/*    margin: 5px;*/
+/*    padding: 10px;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    align-items: center;*/
+/*}*/
